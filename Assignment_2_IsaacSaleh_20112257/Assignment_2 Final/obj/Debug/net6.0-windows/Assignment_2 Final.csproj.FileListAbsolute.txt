@@ -1,0 +1,181 @@
+C:\Users\Windows\source\repos\Assignment_2 Final\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.exe
+C:\Users\Windows\source\repos\Assignment_2 Final\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.deps.json
+C:\Users\Windows\source\repos\Assignment_2 Final\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.runtimeconfig.json
+C:\Users\Windows\source\repos\Assignment_2 Final\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.dll
+C:\Users\Windows\source\repos\Assignment_2 Final\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.pdb
+C:\Users\Windows\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Windows\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\View\UserControls\MenuBar.g.cs
+C:\Users\Windows\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Windows\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Windows\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final_MarkupCompile.cache
+C:\Users\Windows\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final_MarkupCompile.lref
+C:\Users\Windows\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Windows\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\View\UserControls\MenuBar.baml
+C:\Users\Windows\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.g.resources
+C:\Users\Windows\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.AssemblyInfo.cs
+C:\Users\Windows\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.dll
+C:\Users\Windows\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\refint\Assignment_2 Final.dll
+C:\Users\Windows\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.pdb
+C:\Users\Windows\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.genruntimeconfig.cache
+C:\Users\Windows\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\ref\Assignment_2 Final.dll
+C:\Users\20112257\Downloads\Assignment_2 Final-20231023T003050Z-001\Assignment_2 Final\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.exe
+C:\Users\20112257\Downloads\Assignment_2 Final-20231023T003050Z-001\Assignment_2 Final\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.deps.json
+C:\Users\20112257\Downloads\Assignment_2 Final-20231023T003050Z-001\Assignment_2 Final\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.runtimeconfig.json
+C:\Users\20112257\Downloads\Assignment_2 Final-20231023T003050Z-001\Assignment_2 Final\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.dll
+C:\Users\20112257\Downloads\Assignment_2 Final-20231023T003050Z-001\Assignment_2 Final\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.pdb
+C:\Users\20112257\Downloads\Assignment_2 Final-20231023T003050Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.csproj.AssemblyReference.cache
+C:\Users\20112257\Downloads\Assignment_2 Final-20231023T003050Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\20112257\Downloads\Assignment_2 Final-20231023T003050Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\View\UserControls\MenuBar.g.cs
+C:\Users\20112257\Downloads\Assignment_2 Final-20231023T003050Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\20112257\Downloads\Assignment_2 Final-20231023T003050Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final_MarkupCompile.cache
+C:\Users\20112257\Downloads\Assignment_2 Final-20231023T003050Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final_MarkupCompile.lref
+C:\Users\20112257\Downloads\Assignment_2 Final-20231023T003050Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\20112257\Downloads\Assignment_2 Final-20231023T003050Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\View\UserControls\MenuBar.baml
+C:\Users\20112257\Downloads\Assignment_2 Final-20231023T003050Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.g.resources
+C:\Users\20112257\Downloads\Assignment_2 Final-20231023T003050Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20112257\Downloads\Assignment_2 Final-20231023T003050Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.AssemblyInfoInputs.cache
+C:\Users\20112257\Downloads\Assignment_2 Final-20231023T003050Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.AssemblyInfo.cs
+C:\Users\20112257\Downloads\Assignment_2 Final-20231023T003050Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.csproj.CoreCompileInputs.cache
+C:\Users\20112257\Downloads\Assignment_2 Final-20231023T003050Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.dll
+C:\Users\20112257\Downloads\Assignment_2 Final-20231023T003050Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\refint\Assignment_2 Final.dll
+C:\Users\20112257\Downloads\Assignment_2 Final-20231023T003050Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.pdb
+C:\Users\20112257\Downloads\Assignment_2 Final-20231023T003050Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.genruntimeconfig.cache
+C:\Users\20112257\Downloads\Assignment_2 Final-20231023T003050Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\ref\Assignment_2 Final.dll
+C:\Users\20112257\source\repos\Assignment_2 Final\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.exe
+C:\Users\20112257\source\repos\Assignment_2 Final\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.deps.json
+C:\Users\20112257\source\repos\Assignment_2 Final\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.runtimeconfig.json
+C:\Users\20112257\source\repos\Assignment_2 Final\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.dll
+C:\Users\20112257\source\repos\Assignment_2 Final\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.pdb
+C:\Users\20112257\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.csproj.AssemblyReference.cache
+C:\Users\20112257\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\20112257\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\View\UserControls\MenuBar.g.cs
+C:\Users\20112257\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\20112257\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final_MarkupCompile.cache
+C:\Users\20112257\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final_MarkupCompile.lref
+C:\Users\20112257\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\20112257\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\View\UserControls\MenuBar.baml
+C:\Users\20112257\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.g.resources
+C:\Users\20112257\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20112257\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.AssemblyInfoInputs.cache
+C:\Users\20112257\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.AssemblyInfo.cs
+C:\Users\20112257\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.csproj.CoreCompileInputs.cache
+C:\Users\20112257\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.dll
+C:\Users\20112257\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\refint\Assignment_2 Final.dll
+C:\Users\20112257\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.pdb
+C:\Users\20112257\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.genruntimeconfig.cache
+C:\Users\20112257\source\repos\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\ref\Assignment_2 Final.dll
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.exe
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.deps.json
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.runtimeconfig.json
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.dll
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.pdb
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\View\UserControls\MenuBar.g.cs
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final_MarkupCompile.cache
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final_MarkupCompile.lref
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\View\UserControls\MenuBar.baml
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.g.resources
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.AssemblyInfo.cs
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.dll
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\refint\Assignment_2 Final.dll
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.pdb
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.genruntimeconfig.cache
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\ref\Assignment_2 Final.dll
+D:\Main\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.exe
+D:\Main\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.deps.json
+D:\Main\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.runtimeconfig.json
+D:\Main\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.dll
+D:\Main\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.pdb
+D:\Main\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.csproj.AssemblyReference.cache
+D:\Main\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Main\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\View\UserControls\MenuBar.g.cs
+D:\Main\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\App.g.cs
+D:\Main\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final_MarkupCompile.cache
+D:\Main\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final_MarkupCompile.lref
+D:\Main\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Main\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\View\UserControls\MenuBar.baml
+D:\Main\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.g.resources
+D:\Main\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.AssemblyInfoInputs.cache
+D:\Main\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.AssemblyInfo.cs
+D:\Main\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.csproj.CoreCompileInputs.cache
+D:\Main\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.dll
+D:\Main\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\refint\Assignment_2 Final.dll
+D:\Main\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.pdb
+D:\Main\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.genruntimeconfig.cache
+D:\Main\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final\Assignment_2 Final\obj\Debug\net6.0-windows\ref\Assignment_2 Final.dll
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(30-10-23)\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.exe
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(30-10-23)\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.deps.json
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(30-10-23)\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.runtimeconfig.json
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(30-10-23)\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.dll
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(30-10-23)\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.pdb
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(30-10-23)\Assignment_2 Final\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(30-10-23)\Assignment_2 Final\obj\Debug\net6.0-windows\View\UserControls\MenuBar.g.cs
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(30-10-23)\Assignment_2 Final\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(30-10-23)\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final_MarkupCompile.cache
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(30-10-23)\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final_MarkupCompile.lref
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(30-10-23)\Assignment_2 Final\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(30-10-23)\Assignment_2 Final\obj\Debug\net6.0-windows\View\UserControls\MenuBar.baml
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(30-10-23)\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.g.resources
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(30-10-23)\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(30-10-23)\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(30-10-23)\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.AssemblyInfo.cs
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(30-10-23)\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(30-10-23)\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.dll
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(30-10-23)\Assignment_2 Final\obj\Debug\net6.0-windows\refint\Assignment_2 Final.dll
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(30-10-23)\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.pdb
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(30-10-23)\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.genruntimeconfig.cache
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(30-10-23)\Assignment_2 Final\obj\Debug\net6.0-windows\ref\Assignment_2 Final.dll
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(01-11-23)\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.exe
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(01-11-23)\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.deps.json
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(01-11-23)\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.runtimeconfig.json
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(01-11-23)\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.dll
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(01-11-23)\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.pdb
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(01-11-23)\Assignment_2 Final\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(01-11-23)\Assignment_2 Final\obj\Debug\net6.0-windows\View\UserControls\MenuBar.g.cs
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(01-11-23)\Assignment_2 Final\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(01-11-23)\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final_MarkupCompile.cache
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(01-11-23)\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final_MarkupCompile.lref
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(01-11-23)\Assignment_2 Final\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(01-11-23)\Assignment_2 Final\obj\Debug\net6.0-windows\View\UserControls\MenuBar.baml
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(01-11-23)\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.g.resources
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(01-11-23)\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(01-11-23)\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(01-11-23)\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.AssemblyInfo.cs
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(01-11-23)\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(01-11-23)\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.dll
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(01-11-23)\Assignment_2 Final\obj\Debug\net6.0-windows\refint\Assignment_2 Final.dll
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(01-11-23)\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.pdb
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(01-11-23)\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.genruntimeconfig.cache
+C:\Users\Windows\Desktop\Tafe\C#\Assignment_2 Final-20231023T083019Z-001\Assignment_2 Final Update(01-11-23)\Assignment_2 Final\obj\Debug\net6.0-windows\ref\Assignment_2 Final.dll
+C:\Users\20112257\source\repos\Assignment_2_IsaacSaleh\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.exe
+C:\Users\20112257\source\repos\Assignment_2_IsaacSaleh\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.deps.json
+C:\Users\20112257\source\repos\Assignment_2_IsaacSaleh\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.runtimeconfig.json
+C:\Users\20112257\source\repos\Assignment_2_IsaacSaleh\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.dll
+C:\Users\20112257\source\repos\Assignment_2_IsaacSaleh\Assignment_2 Final\bin\Debug\net6.0-windows\Assignment_2 Final.pdb
+C:\Users\20112257\source\repos\Assignment_2_IsaacSaleh\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.csproj.AssemblyReference.cache
+C:\Users\20112257\source\repos\Assignment_2_IsaacSaleh\Assignment_2 Final\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\20112257\source\repos\Assignment_2_IsaacSaleh\Assignment_2 Final\obj\Debug\net6.0-windows\View\UserControls\MenuBar.g.cs
+C:\Users\20112257\source\repos\Assignment_2_IsaacSaleh\Assignment_2 Final\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\20112257\source\repos\Assignment_2_IsaacSaleh\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final_MarkupCompile.cache
+C:\Users\20112257\source\repos\Assignment_2_IsaacSaleh\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final_MarkupCompile.lref
+C:\Users\20112257\source\repos\Assignment_2_IsaacSaleh\Assignment_2 Final\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\20112257\source\repos\Assignment_2_IsaacSaleh\Assignment_2 Final\obj\Debug\net6.0-windows\View\UserControls\MenuBar.baml
+C:\Users\20112257\source\repos\Assignment_2_IsaacSaleh\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.g.resources
+C:\Users\20112257\source\repos\Assignment_2_IsaacSaleh\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20112257\source\repos\Assignment_2_IsaacSaleh\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.AssemblyInfoInputs.cache
+C:\Users\20112257\source\repos\Assignment_2_IsaacSaleh\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.AssemblyInfo.cs
+C:\Users\20112257\source\repos\Assignment_2_IsaacSaleh\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.csproj.CoreCompileInputs.cache
+C:\Users\20112257\source\repos\Assignment_2_IsaacSaleh\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.dll
+C:\Users\20112257\source\repos\Assignment_2_IsaacSaleh\Assignment_2 Final\obj\Debug\net6.0-windows\refint\Assignment_2 Final.dll
+C:\Users\20112257\source\repos\Assignment_2_IsaacSaleh\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.pdb
+C:\Users\20112257\source\repos\Assignment_2_IsaacSaleh\Assignment_2 Final\obj\Debug\net6.0-windows\Assignment_2 Final.genruntimeconfig.cache
+C:\Users\20112257\source\repos\Assignment_2_IsaacSaleh\Assignment_2 Final\obj\Debug\net6.0-windows\ref\Assignment_2 Final.dll
